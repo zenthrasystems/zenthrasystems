@@ -12,7 +12,7 @@
 
 ### Applied AI. Connected operations. Exceptional software.
 
-<strong>👋 Welcome to my GitHub.</strong> I work on AI-powered products, intelligent automation, and data-driven systems through <strong>Zenthra Systems</strong>. My focus is turning ambitious ideas into practical, maintainable technology.
+<strong>👋 Welcome to our GitHub.</strong> We work on AI-powered products, intelligent automation, and data-driven systems through <strong>Zenthra Systems</strong>. Our focus is turning ambitious ideas into practical, maintainable technology.
 
 <strong>Building at the intersection of AI, software engineering, and real-world operations.</strong>
 
@@ -21,21 +21,21 @@
   <a href="mailto:connect.zenthra@gmail.com?subject=Discovery%20Call%20Request"><img alt="Request a discovery conversation by email" src="https://img.shields.io/badge/REQUEST-DISCOVERY_CALL-F6C078?style=for-the-badge&labelColor=0B1830&color=665133" /></a>
 </p>
 
-<a href="#what-i-build"><strong>Explore what I build</strong></a> &nbsp;·&nbsp; <a href="#selected-work"><strong>Selected work</strong></a> &nbsp;·&nbsp; <a href="#the-integration-engine"><strong>The integration engine</strong></a> &nbsp;·&nbsp; <a href="#build-with-zenthra"><strong>Start a conversation</strong></a>
+<a href="#what-we-build"><strong>Explore what we build</strong></a> &nbsp;·&nbsp; <a href="#selected-work"><strong>Selected work</strong></a> &nbsp;·&nbsp; <a href="#the-integration-engine"><strong>The integration engine</strong></a> &nbsp;·&nbsp; <a href="#build-with-zenthra"><strong>Start a conversation</strong></a>
 
 </div>
 
 ---
 
-## A little about my work
+## A little about our work
 
-I use this profile to represent my work and interests across **applied AI, full-stack development, systems integration, and analytics**. Zenthra Systems is the brand behind this work: helping businesses connect existing operations to intelligent, maintainable software.
+We use this profile to represent our work and interests across **applied AI, full-stack development, systems integration, and analytics**. Zenthra Systems is the brand behind this work: helping businesses connect existing operations to intelligent, maintainable software.
 
-I believe great engineering means making complicated systems feel simple to the people who use them. That is why I care about **reliable integrations, thoughtful interfaces, human oversight, and measurable business value**.
+We believe great engineering means making complicated systems feel simple to the people who use them. That is why we care about **reliable integrations, thoughtful interfaces, human oversight, and measurable business value**.
 
 **Keep what works. Connect what matters. Automate what creates value.**
 
-## What I build
+## What we build
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ A data-to-decision engagement spanning Python ETL, behavioral segmentation, exec
 
 <sub>The two reference architectures above are proposed solution patterns, not verified client deployments. Their visuals are illustrative.</sub>
 
-## My engineering approach
+## Our engineering approach
 
 | Phase | What happens | Why it matters |
 | :--: | :-- | :-- |
@@ -140,13 +140,13 @@ Technology choices depend on requirements, security, supportability, and the bus
 
 ## Build with Zenthra
 
-Whether you are exploring an AI integration, an operational automation, or a new digital product, I welcome conversations about meaningful engineering problems.
+Whether you are exploring an AI integration, an operational automation, or a new digital product, we welcome conversations about meaningful engineering problems.
 
 <a href="mailto:connect.zenthra@gmail.com?subject=Project%20Inquiry%20-%20Zenthra%20Systems"><img src="./assets/contact-banner.png" width="100%" alt="Your next breakthrough starts with a conversation. Contact Zenthra Systems about AI integration, software engineering, and decision intelligence." /></a>
 
 <div align="center">
 
-<strong>Tell me what you need to connect, build, or automate.</strong>
+<strong>Tell us what you need to connect, build, or automate.</strong>
 
 ### [connect.zenthra@gmail.com](mailto:connect.zenthra@gmail.com?subject=Project%20Inquiry%20-%20Zenthra%20Systems)
 
