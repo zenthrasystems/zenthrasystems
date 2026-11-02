@@ -4,6 +4,15 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.png" />
+  <img src="./assets/Zenthra_Systems_logo_6.png" width="380" alt="Zenthra Systems" />
+</picture>
+
+<br/>
+<br/>
+
+<picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-poster.jpg" />
   <img src="./assets/hero-motion.gif" width="100%" alt="Zenthra Systems: Intelligence that moves business. Animated data pathways connect an AI network around a central core." />
 </picture>
@@ -155,6 +164,12 @@ United States &nbsp;·&nbsp; Bangladesh &nbsp;·&nbsp; Remote collaboration worl
 <sub>For confidential projects, please email details privately. Client or project information is shared publicly only with permission.</sub>
 
 ---
+
+<a href="https://github.com/zenthrasystems">
+  <img src="./assets/logo-mark.png" width="56" alt="Zenthra Systems Brandmark" />
+</a>
+
+<br/>
 
 <sub>© Zenthra Systems · Applied intelligence, responsibly engineered.</sub>
 
